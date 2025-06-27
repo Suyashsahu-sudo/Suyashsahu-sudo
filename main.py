@@ -38,7 +38,7 @@ user2 = input("What else do you want to order? ")
 
 if user2 in items:
     price2 = items[user2] + items[user1]
-    print(f"{user2} is available and total price is {price2} rupees.")
+    print(f"{user2} is available and total order price is {price2} rupees.")
 
 # If the second item is not available, it will print the total price of the first item
 
