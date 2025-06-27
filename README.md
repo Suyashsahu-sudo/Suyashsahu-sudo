@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on real-world project.
 - 📫 How to reach me: just DM me
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'M Not A Gay
+
 
 <!---
 Suyashsahu-sudo/Suyashsahu-sudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
