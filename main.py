@@ -29,6 +29,7 @@ if user1 in items:
 
 else:
      print(f"Sorry, {user1} is not available.")
+    price1 = 0
 
 # Asking for another order and checking if it's available
 
@@ -44,4 +45,4 @@ if user2 in items:
 
 else:
     print(f"Sorry, {user2} is not available.")
-    print(f"Your total order price is {items[user1]} rupees.")
+    print(f"Your total order price is {price1} rupees.")
