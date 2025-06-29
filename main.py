@@ -29,7 +29,7 @@ if user1 in items:
 
 else:
      print(f"Sorry, {user1} is not available.")
-    price1 = 0
+     price1 = 0
 
 # Asking for another order and checking if it's available
 
